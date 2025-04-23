@@ -1,0 +1,11 @@
+Lab 5 Questions:
+
+1. Oh god. I learned a lot. I think my coding brain has really improved, doing a lot of coding last semester and then doing more this semester but in a different 
+language forced me to keep the same logic while learning new syntax and stuff. I have become a big leaflet fan. This is most likely because I grew to hate tmap so much and 
+leaflet was right after but also it just makes more sense to me and is a lot prettier. I did not love the spatial autocorrelation stuff but they may be because we were doing 
+it in R at the same time we were doing it in GIS. It got really jumbled in my brain.
+
+2. I mainly added stuff that added context as to where New Zealand is. I made the map with dumb Americans in mind so I included things such as lat and long lines, a center 
+button and a locator map. The locator map was pretty easy because it only required the "addMiniMap" function. The center button was a little more difficult, I used the same 
+parameters I used for the setView part (which I referenced the inclass activity to do) and then found examples online to figure out the rest. The lat and long lines
+were also something I found online from a forum. After figuring out how the intervals worked, it was pretty simple. 
